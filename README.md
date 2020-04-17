@@ -5,4 +5,4 @@ Perangkat yang digunakan: NodeMCU ESP8266, 2 LED,  Button, LDR, Smartphone Andro
 
 Software yang digunakan: Arduino IDE ,Android Studio
 
-Link YouTube Menyusul...
+Link YouTube: https://youtu.be/WERNZXdFvKA
